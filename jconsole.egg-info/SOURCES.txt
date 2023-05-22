@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+jconsole/runner.py
+jconsole/worker.py
+jconsole.egg-info/PKG-INFO
+jconsole.egg-info/SOURCES.txt
+jconsole.egg-info/dependency_links.txt
+jconsole.egg-info/top_level.txt
