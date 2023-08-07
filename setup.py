@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name ='jconsole',
-    version = '0.1',
+    version = '0.2',
     description = 'jconsole',
     author = 'junostudio',
     author_email = None,
